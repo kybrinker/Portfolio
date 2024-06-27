@@ -1,10 +1,12 @@
 # Work Samples
 
 ## Python
-- [Shannon Entropy](https://replit.com/@kpierce10/Shannon-Entropy#main.py): A code designed to calculate the entropy of an input string.
-- [Dollar Words](https://replit.com/@kpierce10/Dollar-Words): Within the code, every letter of the alphabet has an assigned monetary value. For examle, the letter 'A' has a value of $0.26, 'B' has a value of $0.25, etc.. The code sorts through all the words in the English dictionary to determine which words add to be exactly $1.00 as well as the most expensive word in the dictionary.
-- 
-
+### PowerBall Simulation
+#### Overview
+Using python, the goal was to determine the distribution for how much money a random person would make playing the lottery for 30 years. Assumptions include the individual bought one ticket every week for $2 and the winning values are between 1 and 69. This example was used as an assignment for STA 6326 Theoretical Statistics 1 at the University of Central FLorida.
+### Flipping a Coin
+#### Overview
+The goal was to simulate and model the relative frequency of tossing a coin a signifigant number of times. This example was used as an assignment for STA 6326 Theoretical Statistics 1 at the University of Central Florida.
 ## Logistic Regression
 
 
