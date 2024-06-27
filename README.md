@@ -4,9 +4,13 @@
 ### PowerBall Simulation
 #### Overview
 Using python, the goal was to determine the distribution for how much money a random person would make playing the lottery for 30 years. Assumptions include the individual bought one ticket every week for $2 and the winning values are between 1 and 69. This example was used as an assignment for STA 6326 Theoretical Statistics 1 at the University of Central FLorida.
+
+[Lottery_Simulation.pdf](https://github.com/user-attachments/files/16009181/Lottery_Simulation.pdf)
 ### Flipping a Coin
 #### Overview
 The goal was to simulate and model the relative frequency of tossing a coin a signifigant number of times. This example was used as an assignment for STA 6326 Theoretical Statistics 1 at the University of Central Florida.
+
+[Relative_Frequency_of_Tossing_A_Coin.pdf](https://github.com/user-attachments/files/16009173/Relative_Frequency_of_Tossing_A_Coin.pdf)
 ## Regression
 ### Logistic Regression
 #### Diagnostic Plots
