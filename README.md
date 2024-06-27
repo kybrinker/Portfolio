@@ -24,6 +24,11 @@ The goal was to simulate and model the relative frequency of tossing a coin a si
 ### Predicting Laptop Prices
 #### Overview
 This project sought to find a predictive model that would estimate the current price of a laptop (in Indian Rupees) as accurately as possible. Accuracy was determined based on the Root Mean Squared Error (RMSE) where a lower value indicated a better performing model. The project was used as term project for STA 6714 Data Preparation at the University of Central Florida.
+
 #### Data Exploration
+
+[Data Prep - Project Proposal.pdf](https://github.com/user-attachments/files/16009343/Data.Prep.-.Project.Proposal.pdf)
+
 #### Data Analysis
+[Predicting Current Laptop Prices (Data Analysis).pptx](https://github.com/user-attachments/files/16009350/Predicting.Current.Laptop.Prices.Data.Analysis.pptx)
 #### FInal Results
