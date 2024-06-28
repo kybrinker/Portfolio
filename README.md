@@ -31,7 +31,8 @@ This project sought to find a predictive model that would estimate the current p
 
 #### Data Analysis
 
-[Uploading Predicting Laptop Prices (Data Analysis).html…]()
+
+
 
 [Predicting Current Laptop Prices (Data Analysis).pptx](https://github.com/user-attachments/files/16009350/Predicting.Current.Laptop.Prices.Data.Analysis.pptx)
 #### Final Results
