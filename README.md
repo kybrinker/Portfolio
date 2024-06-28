@@ -11,14 +11,6 @@ Using python, the goal was to determine the distribution for how much money a ra
 The goal was to simulate and model the relative frequency of tossing a coin a signifigant number of times. This example was used as an assignment for STA 6326 Theoretical Statistics 1 at the University of Central Florida.
 
 [Relative_Frequency_of_Tossing_A_Coin.pdf](https://github.com/user-attachments/files/16009173/Relative_Frequency_of_Tossing_A_Coin.pdf)
-## Regression
-### Logistic Regression
-#### Diagnostic Plots
-#### Ordinal Regression
-#### Data Exploration/Visualization
-### Linear Regression
-#### Predicting Salaries
-#### Confidence Intervals
 
 ## Projects
 ### Predicting Laptop Prices
@@ -35,4 +27,9 @@ This project sought to find a predictive model that would estimate the current p
 
 [Predicting Current Laptop Prices (Data Analysis).pptx](https://github.com/user-attachments/files/16009350/Predicting.Current.Laptop.Prices.Data.Analysis.pptx)
 #### Final Results
+[Final Project (Step 3).pdf](https://github.com/user-attachments/files/16023937/Final.Project.Step.3.pdf)
+
+[Predicting Laptop Prices Using Statistical Models.docx](https://github.com/user-attachments/files/16023940/Predicting.Laptop.Prices.Using.Statistical.Models.docx)
+
+[Predicting Current Laptop Prices (Data Analysis).pptx](https://github.com/user-attachments/files/16023939/Predicting.Current.Laptop.Prices.Data.Analysis.pptx)
 
