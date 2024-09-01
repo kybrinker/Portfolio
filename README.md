@@ -36,7 +36,13 @@ This project sought to find a predictive model that would estimate the current p
 ### Video Game Suggestions
 In collaboration with Janie Ha, a fellow student in the data analytics bootcamp hosted by Brainstation, this project analyzed various video game genres to make reccomendations based on sales, critic scores, and user count. Data was refined and filtered using SQL and visualized through Tableau. 
 
-[Final Project.pdf]([Video Game Project/BrainStation Final Project/Final Project.pdf](https://github.com/kybrinker/Portfolio/blob/main/Video%20Game%20Project/BrainStation%20Final%20Project/Brainstation%20Final%20Project(SQL).sql))
+#### Data
+
+#### SQL Code
+
+#### Final Presentation and References
+
+
 
 
 
