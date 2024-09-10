@@ -43,7 +43,7 @@ This project sought to find a predictive model that would estimate the current p
 In collaboration with Janie Ha, a fellow student in the data analytics bootcamp hosted by Brainstation, this project analyzed various video game genres to make reccomendations based on sales, critic scores, and user count. Data was refined and filtered using SQL and visualized through Tableau. 
 
 #### Cleaned Data and SQL generated CSV
-[Original Video Game Data](https://github.com/kybrinker/Portfolio/blob/main/Video%20Game%20Project/BrainStation%20Final%20Project/games.csv)
+[Video Game Original Data](https://github.com/kybrinker/Portfolio/blob/main/BrainStation%20Final%20Project/games.csv)
 
 [[Cleaned Data for Video Game Sales in 2016](https://github.com/kybrinker/Portfolio/blob/main/Video%20Game%20Project/BrainStation%20Final%20Project/Video_Games_Sales_as_at_22_Dec_2016%20(Cleaned).csv)]
 
