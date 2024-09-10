@@ -12,6 +12,11 @@ The goal was to simulate and model the relative frequency of tossing a coin a si
 
 [Relative_Frequency_of_Tossing_A_Coin.pdf](https://github.com/user-attachments/files/16009173/Relative_Frequency_of_Tossing_A_Coin.pdf)
 
+### Analyzing Disney Stock Data
+#### Overview
+The objective was to obtain an introductory model of Disney's stock data to predict the closing price based on a full and reduced model of the data. Some of the techniques used include simple linear regression, feature reduction and importance, as well as a comparison of the Mean Square Error.
+
+
 ## Projects
 ### Predicting Laptop Prices
 #### Overview
