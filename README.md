@@ -15,7 +15,8 @@ The goal was to simulate and model the relative frequency of tossing a coin a si
 ### Preparing Data for Regression
 #### Overview
 This code focuses on preparing data for regression supervised learning for the price of diamonds. Feature selection and analysis will occur at a later stage.
-[Preparing Data for Regression Supervised Learning]([url](https://github.com/kybrinker/Portfolio/blob/main/Preparing%20Data%20for%20Regression.pdf))
+
+[Preparing Data for Regression Supervised Learning](https://github.com/kybrinker/Portfolio/blob/main/Preparing%20Data%20for%20Regression.pdf)
 
 ## Projects
 ### Predicting Laptop Prices
