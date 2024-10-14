@@ -1,16 +1,11 @@
 # Work Samples
 
 ## Python
-### PowerBall Simulation
-#### Overview
-Using python, the goal was to determine the distribution for how much money a random person would make playing the lottery for 30 years. Assumptions include the individual bought one ticket every week for $2 and the winning values are between 1 and 69. This example was used as an assignment for STA 6326 Theoretical Statistics 1 at the University of Central FLorida.
+### Large Language Model
+#### Objective
+Given the reviews for Disneyland Hong Kong and Disneland California, we want to use the reviews of various guests to predict the location. The data set does contain reviews from Disneyland Paris, but we will focus on the two locations listed by restricting the data to the first 25000 reviews within the dataset. This was chosen as the file already had the known locations in order: Disneyland Hong Kong, Disneyland California, and Disneyland Paris respectively. Thus by restricting the data to the first 25000 observations, we will eliminate the Disnleyland Paris entries and reduce the dataset for slighlty faster perfomance of the LLM model.
 
-[Lottery_Simulation](https://github.com/user-attachments/files/16009181/Lottery_Simulation.pdf)
-### Flipping a Coin
-#### Overview
-The goal was to simulate and model the relative frequency of tossing a coin a signifigant number of times. This example was used as an assignment for STA 6326 Theoretical Statistics 1 at the University of Central Florida.
-
-[Relative_Frequency_of_Tossing_A_Coin](https://github.com/user-attachments/files/16009173/Relative_Frequency_of_Tossing_A_Coin.pdf)
+[Brinker, Kyle Using a LLM for Classification Supervised Learning.pdf](https://github.com/kybrinker/Portfolio/blob/main/Brinker%2C%20Kyle%20Using%20a%20LLM%20for%20Classification%20Supervised%20Learning.pdf)
 
 ### Preparing Data for Regression
 #### Overview
